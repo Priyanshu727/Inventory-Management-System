@@ -1,0 +1,11 @@
+name,quantity,supplier,price
+"Apple",50,"SupplierID1",0.50
+"Banana",30,"SupplierID2",0.30
+"Orange",20,"SupplierID1",0.60
+"Grapes",10,"SupplierID3",2.00
+"Watermelon",5,"SupplierID2",3.00
+"Blueberries",15,"SupplierID1",1.50
+"Strawberries",25,"SupplierID2",2.50
+"Peaches",12,"SupplierID3",1.00
+"Mango",8,"SupplierID1",1.75
+"Pineapple",4,"SupplierID3",2.50
